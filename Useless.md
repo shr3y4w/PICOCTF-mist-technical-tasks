@@ -1,12 +1,12 @@
-..Description<br>
+# Description<br>
 There's an interesting script in the user's home directory
 Additional details will be available after launching your challenge instance.
 <br>
 The hostname, port number, user and password are given for the instance once it is launched.<br><br>
-Hostname: saturn.picoctf.net<br>
-Port:     51004<br>
-Username: picoplayer<br>
-Password: password<br><br>
+Hostname: saturn.picoctf.net<br><br>
+##Port:     51004<br>
+##Username: picoplayer<br>
+##Password: password<br><br>
 
 Using ls, I see a file useless<br>
 Using file command, I see it is an executable file with ASCII text<br>

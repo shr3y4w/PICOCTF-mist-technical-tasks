@@ -2,7 +2,7 @@ Description<br>
 There's an interesting script in the user's home directory
 Additional details will be available after launching your challenge instance.
 <br>
-The hostname, port number, user and password are given for the instance once it is launched.<br>
+The hostname, port number, user and password are given for the instance once it is launched.<br><br>
 Hostname: saturn.picoctf.net<br>
 Port:     51004<br>
 Username: picoplayer<br>

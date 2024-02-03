@@ -9,7 +9,9 @@ Port:     51004<br>
 Username: picoplayer<br>
 Password: password<br><br>
 
-Using ls, I see a file useless<br>
-Using file command, I see it is an executable file with ASCII text<br>
-Using cat useless, I see the contents of the file and at the end, it says to Read the manual.<br>
+![img4](img4.png)<br>
+
+
+I see a file useless, it is an executable file with ASCII text.<br>
+I see the contents of the file and at the end, it says to Read the manual.<br>
 Using man useless, the flag is found at the end.<br>

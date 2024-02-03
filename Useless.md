@@ -14,4 +14,6 @@ Password: password<br><br>
 
 I see a file useless, it is an executable file with ASCII text.<br>
 I see the contents of the file and at the end, it says to Read the manual.<br>
+![img5](img5.png)<br>
 Using man useless, the flag is found at the end.<br>
+![img6](img6.png)<br>

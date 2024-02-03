@@ -9,6 +9,6 @@ The password checker is a python code. <br><br>
 ![Alt text](pic2.png)
 <br><br>
 I edit the code so that the all the passwords from **dictionary.txt** are tested.<br><br>
-![Alt text](pic3.png)
-When one of these passwords worked, I got the flag.
+![Alt text](pic3.png)<br><br>
+When one of these passwords worked, I got the flag.<br><br>
 ![Alt text](pic4.png)

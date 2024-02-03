@@ -6,7 +6,7 @@ Download the file here.
 <br><br>The file contains the following text:<br><br>
 ![img7t](img7.png)
 <br><br>
-The text is base64 encoded several times, so we must decode it several times till we get the flag.
-![img8](img8.png)
+The text is base64 encoded several times, so we must decode it several times till we get the flag.<br><br>
 ![img9](img9.PNG)
+![img8](img8.png)<br><br>
 The flag is found at the end.

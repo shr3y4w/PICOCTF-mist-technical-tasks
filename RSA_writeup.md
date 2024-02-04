@@ -4,8 +4,16 @@ RSA is a symmetric cryptographic algorithm, which means it works with a public a
 
 The private key is made by *d = (k\*Φ(n) + 1) / e*, for some value *k*.
 
-#### Encryption:
+### Encryption:
 *Encrypted data c = (89\*\*e)mod n*
 
-#### Decryption:
+### Decryption:
 *Decrypted Data = (c\*\*d)mod n*
+
+
+### Vulnerabilities
+* Data transfer rate is slow, especially for large amounts of data<br>
+* Larger key sizes are ideal for higher security, which requires more storage space<br>
+* vulnerable to side-channel attacks, where information leaked through side channels about power consumption, electromagnetic radiation, and timing analysis can be used by attackers to extract the private key.
+ 
+

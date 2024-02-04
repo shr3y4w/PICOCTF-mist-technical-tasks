@@ -1,6 +1,11 @@
 ## RSA
 
-RSA is a symmetric cryptographic algorithm, which means it works with a public and private key. The public key is published, while thr private key is kept private. Both are based on two prime numbers, eg. p and q, which should be kept hidden. The public key is made by multiplying the two prime numbers *(n=p\*q)* and an exponent e *(1 < e < Φ(n))*, where *Φ(n)=(p-1)(q-1)*
+RSA is a symmetric cryptographic algorithm, which means it works with a public and private key. The public key is published, while thr private key is kept private. Both are based on two prime numbers, eg. p and q, which should be kept hidden. The public key is made by multiplying the two prime numbers *(n=p\*q)* and an exponent e *(1 < e < Φ(n))*, where *Φ(n)=(p-1)(q-1)*<br><br>
+
+The private key is made by *d = (k\*Φ(n) + 1) / e*, for some value *k*.
 
 #### Encryption:
 *Encrypted data c = (89\*\*e)mod n*
+
+#### Decryption:
+*Decrypted Data = (c\*\*d)mod n*
